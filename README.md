@@ -1,5 +1,4 @@
 # HSE_Game: An Interactive Office Safety Awareness Experience
-
 HSE_Game is a Twine-based branching narrative game designed to enhance office safety awareness in a fun and engaging way. Players take on the role of a worker navigating real-world HSE (Health, Safety, and Environment) scenarios in an office setting.  
 
 ## 🔗 Play Now
@@ -24,4 +23,4 @@ Make the right choices and create a safer office environment—or risk workplace
 ## 🤝 Contribute
 Contributions are welcome! Feel free to report issues or submit pull requests.  
 
-## 👉 GitHub Repo: [github.com/MrDaniel07/HSE_Game](https://github.com/MrDaniel07/HSE_Game) 🚀
+👉**GitHub Repo**: [github.com/MrDaniel07/HSE_Game](https://github.com/MrDaniel07/HSE_Game) 🚀
