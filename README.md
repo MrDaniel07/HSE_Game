@@ -1,10 +1,5 @@
-Got it! Here’s an updated description for your **HSE_Game** GitHub repository:  
-
----
-
 # HSE_Game: An Interactive Office Safety Awareness Experience
-
-HSE_Game is a Twine-based branching narrative game designed to enhance office safety awareness in a fun and engaging way. Players take on the role of a new safety officer navigating real-world HSE (Health, Safety, and Environment) scenarios in an office setting.  
+HSE_Game is a Twine-based branching narrative game designed to enhance office safety awareness in a fun and engaging way. Players take on the role of a worker navigating real-world HSE (Health, Safety, and Environment) scenarios in an office setting.  
 
 ## **🔗 Play Now**  
 👉 [firesafetygame.netlify.app](https://firesafetygame.netlify.app/)  
